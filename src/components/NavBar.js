@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-
+import { CSSProperties } from "react";
 function NavBar() {
   return <div className="navbar">(
       <ul>

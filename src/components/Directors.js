@@ -1,6 +1,6 @@
 import React from "react";
 import { directors } from "../data";
-
+import { CSSProperties } from "react";
 function Directors() {
   return <div>
       <h1> Directors Page</h1>

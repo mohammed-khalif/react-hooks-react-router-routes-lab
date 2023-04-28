@@ -1,0 +1,153 @@
+/* Style for Actors Component */
+.actors-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .actors-header {
+    font-size: 32px;
+    margin-bottom: 16px;
+  }
+  
+  .actor-card {
+    background-color: #F0F0F0;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .actor-card h3 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .actor-card ul {
+    margin-top: 8px;
+    margin-left: 24px;
+  }
+  
+  .actor-card li {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  /* Style for Directors Component */
+  .directors-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .directors-header {
+    font-size: 32px;
+    margin-bottom: 16px;
+  }
+  
+  .director-card {
+    background-color: #F0F0F0;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .director-card h3 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .director-card ul {
+    margin-top: 8px;
+    margin-left: 24px;
+  }
+  
+  .director-card li {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  /* Style for Home Component */
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .home-header {
+    font-size: 32px;
+    margin-bottom: 16px;
+  }
+  
+  /* Style for Movies Component */
+  .movies-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .movies-header {
+    font-size: 32px;
+    margin-bottom: 16px;
+  }
+  
+  .movie-card {
+    background-color: #F0F0F0;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .movie-card h3 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .movie-card p {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  .movie-card ul {
+    margin-top: 8px;
+    margin-left: 24px;
+  }
+  
+  .movie-card li {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  /* Style for NavBar Component */
+  .navbar {
+    background-color: #333;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    margin: 0 16px;
+  }
+  
+  .navbar a {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 16px;
+    border-radius: 8px;
+  }
+  
+  .navbar a:hover {
+    background-color: #FFF;
+    color: #333;
+  }
+  

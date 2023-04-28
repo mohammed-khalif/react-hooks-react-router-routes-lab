@@ -5,7 +5,7 @@ import Home from "./Home";
 import Actors from "./Actors";
 import Directors from "./Directors";
 import Movies from "./Movies";
-
+import { CSSProperties } from "react";
 function App() {
   return (
     <BrowserRouter>
